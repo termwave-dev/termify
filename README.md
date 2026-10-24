@@ -15,9 +15,9 @@ npm install
 npm start
 ```
 
-Open http://localhost:3000. In Spotify Developer Dashboard, add this exact Redirect URI to your app:
+Open http://127.0.0.1:3000. In Spotify Developer Dashboard, add this exact Redirect URI to your app:
 
-`http://localhost:3000/`
+`http://127.0.0.1:3000/`
 
 In the app, open **Settings** and enter your Spotify Client ID. Save, then choose **Connect Spotify**.
 
